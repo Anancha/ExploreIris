@@ -1,0 +1,12 @@
+name: ExploringIris
+title: ExploringIris
+username:
+account: anancha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1006424
+bundleId: 2191146
+url: https://anancha.shinyapps.io/ExploringIris/
+when: 1561988838.97693
+asMultiple: FALSE
+asStatic: FALSE
